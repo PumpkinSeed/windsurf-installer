@@ -1,6 +1,6 @@
-# Windsurf IDE Installer
-
 ![Windsurf](https://codeium.com/logo/windsurf_teal_logo.svg)
+
+# Windsurf IDE Installer
 
 Windsurf IDE installer for Linux systems.
 
