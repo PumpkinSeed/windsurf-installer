@@ -1,0 +1,2 @@
+# windsurf-installer
+Windsurf installer
