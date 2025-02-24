@@ -23,3 +23,5 @@ curl -s https://raw.githubusercontent.com/PumpkinSeed/windsurf-installer/refs/he
 - Creates desktop icon
 - Print suggestion to add Windsurf to the path
 - Easy to install/update
+- Documented installation, so easy to verify
+- No root access required
